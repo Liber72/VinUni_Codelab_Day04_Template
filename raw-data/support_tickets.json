@@ -106,5 +106,194 @@
     "status": "open",
     "created_at": "2026-09-10T10:04:42.940366+07:00",
     "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-013",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:27:53.727249+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-014",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:29:56.717181+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-015",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:38:17.736219+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-016",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:38:19.116488+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-017",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:42:19.301711+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-018",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:44:32.909646+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-019",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:44:38.334745+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-020",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:45:24.339998+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-021",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:45:29.182851+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-022",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:45:53.010799+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-023",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:48:32.532502+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-024",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:51:08.028814+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-025",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:51:09.525747+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-026",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "Tôi tên Lê Minh Khoa, xe VF 8 của tôi bị lỗi hệ thống ADAS. Đây là vấn đề nghiêm trọng, cần xử lý gấp.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:51:11.026271+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-027",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:51:33.234328+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-028",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "Tôi tên Lê Minh Khoa, xe VF 8 của tôi bị lỗi hệ thống ADAS. Đây là vấn đề nghiêm trọng, cần xử lý gấp.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:51:34.715030+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-029",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:51:35.419539+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-030",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "Tôi tên Lê Minh Khoa, xe VF 8 của tôi bị lỗi hệ thống ADAS. Đây là vấn đề nghiêm trọng, cần xử lý gấp.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:51:36.861392+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-031",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:51:54.846773+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-032",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "Tôi tên Lê Minh Khoa, xe VF 8 của tôi bị lỗi hệ thống ADAS. Đây là vấn đề nghiêm trọng, cần xử lý gấp.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:51:56.345007+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-033",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "Tôi tên Lê Minh Khoa, xe VF 8 của tôi bị lỗi hệ thống ADAS. Đây là vấn đề nghiêm trọng, cần xử lý gấp.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T16:51:57.875923+07:00",
+    "category": "general"
   }
 ]
